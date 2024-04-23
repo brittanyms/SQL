@@ -1,2 +1,4 @@
-# SQL
-Collection of SQL queries designed for working with a Sales Order Database Schema.
+# SQL for Data Analysis
+This repository explores SQL functionalities (basic to advanced) through queries on two separate databases:
+- Parch & Posey
+- Bicycle Shop Sales Orders
